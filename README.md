@@ -1,21 +1,13 @@
-QUTCHYを利用するためのJS<br>
+おしゃべりオモチャ開発キット QUTCHY を <a href="http://konashi.ux-xu.com/kjs/">konashi.js</a> で利用するためのJavaScriptライブラリ<br>
+
 <dl>
 	<dt>依存ライブラリ</dt>
 	<dd>jQuery</dd>
 	<dd>konashi.js</dd>
 </dl>
 
-例) konashiと接続後すぐに喋らせる<br>
+例) konashi と接続後、すぐに喋らせる<br>
 <pre>
-QUTCHYを利用するためのJS&lt;br&gt;
-&lt;dl&gt;
-    &lt;dt&gt;依存ライブラリ&lt;/dt&gt;
-    &lt;dd&gt;jQuery&lt;/dd&gt;
-    &lt;dd&gt;konashi.js&lt;/dd&gt;
-&lt;/dl&gt;
-
-例) konashiと接続後すぐに喋らせる&lt;br&gt;
-&lt;pre&gt;
 &lt;!DOCTYPE html&gt;
 &lt;html ng-app&gt;
    &lt;head&gt;
@@ -24,7 +16,7 @@ QUTCHYを利用するためのJS&lt;br&gt;
    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
 &lt;/head&gt;
 &lt;body&gt;
-  &lt;h1&gt;QUTCHY JS サンプル&lt;/h1&gt;
+  &lt;div&gt;QUTCHY JS サンプル&lt;/div&gt;
   &lt;script src=&quot;http://code.jquery.com/jquery-1.10.1.min.js&quot;&gt;&lt;/script&gt;
   &lt;script src=&quot;http://code.jquery.com/jquery-migrate-1.2.1.min.js&quot;&gt;&lt;/script&gt;
   &lt;script src=&quot;http://konashi.ux-xu.com/kjs/konashi-bridge.min.js&quot;&gt;&lt;/script&gt;
@@ -40,5 +32,10 @@ QUTCHYを利用するためのJS&lt;br&gt;
   &lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;
-&lt;/pre&gt;
 </pre>
+
+<dl>
+	<dt>サイト</dl>
+	<dd><a href="http://www.strikingly.com/qutchy">QUTCHY</a></dd>
+	<dd><a href="http://www.gadgeban.com/project/no022.php">QUTCHY [ガジェットバンク]</a></dd>
+</dl>
