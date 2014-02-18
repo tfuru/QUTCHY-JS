@@ -45,16 +45,20 @@
 
 <dl>
 	<dt>サイト</dt>
-	<dd><a href="http://www.strikingly.com/qutchy">QUTCHY</a></dd>
-	<dd><a href="http://www.gadgeban.com/project/no022.php">QUTCHY [ガジェットバンク]</a></dd>
+	<dd>
+		<a href="http://www.strikingly.com/qutchy">QUTCHY</a>
+	</dd>
+	<dd>
+		<a href="http://www.gadgeban.com/project/no022.php">QUTCHY [ガジェットバンク]</a>
+	</dd>
 </dl>
 
 <dl>
 	<dt>利用API</dt>
 	<dd>
-		<span style="margin:15px 15px 15px 15px"><a href="http://developer.yahoo.co.jp/about">Webサービス by Yahoo! JAPAN</a></span>
+		<a href="http://developer.yahoo.co.jp/about">Webサービス by Yahoo! JAPAN</a>
 	</dd>
 	<dd>
-		<span style="margin:15px 15px 15px 15px">ユカイ工学 <a href="https://itunes.apple.com/jp/app/konashi.js-javascript-html/id652940096?mt=8">konashi.js</a></span>
+		ユカイ工学 <a href="https://itunes.apple.com/jp/app/konashi.js-javascript-html/id652940096?mt=8">konashi.js</a>
 	</dd>
 </dl>
