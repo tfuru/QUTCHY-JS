@@ -1,12 +1,21 @@
 おしゃべりオモチャ開発キット QUTCHY を <a href="http://konashi.ux-xu.com/kjs/">konashi.js</a> で利用するためのJavaScriptライブラリ<br>
 
 <dl>
+	<dt>CDN</dt>
+	<dd>http://qutchy-server.appspot.com/script/qutchy.js</dd>
+</dl>
+
+<dl>
 	<dt>依存ライブラリ</dt>
 	<dd>jQuery</dd>
 	<dd>konashi.js</dd>
 </dl>
 
-例) konashi と接続後、すぐに喋らせる<br>
+<dl>
+	<dt>利用例</dt>
+	<dd>konashi と接続後、すぐに喋らせる</dd>
+</dl>
+
 <pre>
 &lt;!DOCTYPE html&gt;
 &lt;html ng-app&gt;
@@ -35,7 +44,17 @@
 </pre>
 
 <dl>
-	<dt>サイト</dl>
+	<dt>サイト</dt>
 	<dd><a href="http://www.strikingly.com/qutchy">QUTCHY</a></dd>
 	<dd><a href="http://www.gadgeban.com/project/no022.php">QUTCHY [ガジェットバンク]</a></dd>
+</dl>
+
+<dl>
+	<dt>利用API</dt>
+	<dd>
+		<span style="margin:15px 15px 15px 15px"><a href="http://developer.yahoo.co.jp/about">Webサービス by Yahoo! JAPAN</a></span>
+	</dd>
+	<dd>
+		<span style="margin:15px 15px 15px 15px">ユカイ工学 <a href="https://itunes.apple.com/jp/app/konashi.js-javascript-html/id652940096?mt=8">konashi.js</a></span>
+	</dd>
 </dl>
